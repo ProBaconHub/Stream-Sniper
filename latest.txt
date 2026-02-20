@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/ProBaconHub/Stream-Sniper/refs/heads/main/2.6/source.js

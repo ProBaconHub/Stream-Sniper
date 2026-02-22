@@ -1,7 +1,7 @@
 $ErrorActionPreference = "Stop"
 
 # --- CONFIG ---
-$extId = "edfeiokihfhcjpbdmecodhldjgdffchk"
+$extId = "jkcmecglaigipiedijgblekllechehdl"
 $crxName = "StreamSniper.crx"
 $updateXmlName = "update.xml"
 $policyRegPath = "HKLM:\Software\Policies\Google\Chrome\ExtensionInstallForcelist"

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gupdate xmlns="http://www.google.com/update2/response">
-  <app appid="jkcmecglaigipiedijgblekllechehdl">
-    <updatecheck codebase="http://localhost:8765/StreamSniper.crx" version="1.0.0" />
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='jkcmecglaigipiedijgblekllechehdl'>
+    <updatecheck codebase='file:///C:/Users/leoch/Desktop/StreamSniper Installer/installer/crx_policy/StreamSniper.crx' version='1.0.0' />
   </app>
 </gupdate>
